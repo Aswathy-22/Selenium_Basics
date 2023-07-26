@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Oddnumbercheck {
     public static void main(String[] args)
     {
-        int num;
+        int num, a;
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a number : ");
         num = sc.nextInt();
